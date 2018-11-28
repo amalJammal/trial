@@ -1,9 +1,15 @@
-
-<style>
-
-element.style {
-width:80%;
-}
-:root {
- --danger:#fd7e14;}
-</style>
+body {
+    background-color: #eee;
+  }
+  
+  .pull-right {
+    float: right;
+  }
+  
+  .btn-orange {
+    background-color: orange;
+  }
+  
+  .bg-green {
+    background-color: darkgreen;
+  }
